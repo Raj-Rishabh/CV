@@ -144,10 +144,10 @@ nav{
 	color:rgba(18,17,17,0.40);
 	font-size: 20px;
 }
-/* .social a:hover i{
+.social a:hover i{
 	color:#126bf0;
 	transition: all ease 0.5s;
-} */
+}
 .fa-facebook-f:hover{
 	color: rgb(3, 109, 248);
 }
